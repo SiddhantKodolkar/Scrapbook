@@ -11,9 +11,10 @@
 
 ### Display Uploaded Media
 
-![image](https://github.com/SiddhantKodolkar/Scrapbook/assets/111975032/645a2376-9cf4-416d-a91c-d880f0410028)
+<img width="500" height="300" alt="image" src="https://github.com/SiddhantKodolkar/Scrapbook/assets/111975032/645a2376-9cf4-416d-a91c-d880f0410028">
 
 
 ### Manage Media
 
-![image](https://github.com/SiddhantKodolkar/Scrapbook/assets/111975032/b0b3dcc9-e17f-47ea-ad02-e137937cadf3)
+<img width="500" height="300" alt="image" src="https://github.com/SiddhantKodolkar/Scrapbook/assets/111975032/b0b3dcc9-e17f-47ea-ad02-e137937cadf3">
+
