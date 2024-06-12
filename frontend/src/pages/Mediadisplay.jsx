@@ -138,9 +138,13 @@ const Mediadisplay = () => {
                   <CardMedia
                     className="border-2 border-green-600"
                     component="img"
-                    height="40"
                     image={`http://localhost:5000/${item.fileUrl}`}
                     alt={item.title}
+                    sx={{
+                      height: 300,
+                      width: 500,
+                      objectFit: 'cover'
+                    }}
                   />
                   <CardContent>
                     <Typography gutterBottom variant="h5" component="div">
