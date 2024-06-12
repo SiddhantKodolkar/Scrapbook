@@ -1,6 +1,7 @@
+
 ## GUI
 
-<img width="800" height="600" alt="image" src="https://github.com/SiddhantKodolkar/Scrapbook/assets/111975032/cc0afef3-0a41-410a-96ff-fefd8097fc55">
+<img width="600" height="300" alt="image" src="https://github.com/SiddhantKodolkar/Scrapbook/assets/111975032/cc0afef3-0a41-410a-96ff-fefd8097fc55">
 
 
 ### Login and Register Pages
